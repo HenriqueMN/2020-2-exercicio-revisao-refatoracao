@@ -7,7 +7,7 @@ using namespace std;
 
 class EncomendaNormal: public Encomenda{
 
-	public:
+	private:
 		
 	double calcula(){
 
