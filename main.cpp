@@ -168,12 +168,12 @@ int main(){
 	std::cout << endl;
 	
 	std::cout << "\n>> Encomendas Normais <<" 
-		 << "\nQuantidade: " << quantN
-		 << "\nValor Total: " << custN
-		 << endl
-		 << "\n>> Encomendas Relâmpago <<" 
-		 << "\nQuantidade: " << quantR
-		 << "\nValor Total: " << custR
-		 << endl;
+		  << "\nQuantidade: " << quantN
+		  << "\nValor Total: " << custN
+		  << endl
+		  << "\n>> Encomendas Relâmpago <<" 
+		  << "\nQuantidade: " << quantR
+		  << "\nValor Total: " << custR
+		  << endl;
 	
 }
