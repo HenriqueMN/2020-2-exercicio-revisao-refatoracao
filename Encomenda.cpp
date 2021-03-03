@@ -15,5 +15,5 @@ void Encomenda::print(){
     std::cout << "[Remetente]" << std::endl;
     this->remetente.print();
     std::cout << "[Destinatário]" << std::endl;
-    this->dest.print();
+    this->destinatario.print();
 }
