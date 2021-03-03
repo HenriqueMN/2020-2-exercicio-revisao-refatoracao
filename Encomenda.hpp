@@ -11,7 +11,7 @@ class Encomenda{
 		double custoKg = 0.0;
 		double total = 0.0;
 		Cliente remetente;
-		Cliente dest;
+		Cliente destinatario;
         
         	virtual double calcula(); // calcula o preço de uma encomenda normal
         		
